@@ -1,3 +1,7 @@
+<p align="center">
+    <img width="300" src="./me.png" alt="Me!">
+</p>
+
 # 👋 Yo
 
 I’m **@AlexTheJPEG**, just a random person on the Internet. And you just happened to stumble across my GitHub profile. Cool.
