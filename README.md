@@ -1,8 +1,7 @@
-<p align="center">
+<div id="header" align="center">
     <img width="300" src="./me.png" alt="Me!">
-</p>
-
-# 👋 Yo
+    <h1>👋 Yo</h1>
+</div>
 
 I’m **@AlexTheJPEG**, just a random person on the Internet. And you just happened to stumble across my GitHub profile. Cool.
 
