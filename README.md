@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img width="300" src="./me.png" alt="Me!">
+    <img width="250" src="./me.png" alt="Me!">
     <h1>👋 Yo</h1>
 </div>
 
